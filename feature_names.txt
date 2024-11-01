@@ -1,0 +1,13 @@
+open
+high
+low
+volume
+mean_sentiment
+bullish_num
+neutral_num
+bearish_num
+sentiment_change
+volume_change
+5_day_ma
+50_day_ma
+day_of_week
